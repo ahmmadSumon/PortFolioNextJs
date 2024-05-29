@@ -27,9 +27,9 @@ const Project = () => {
   const cardData: CardProps[] = [
     {
       title: "An e-Commerce website",
-      paragraph: "Build with react",
+      paragraph: "Build with Nextjs",
       imageSrc: image1 ,
-      projectLink: "https://example.com/project1", // Provide a project link
+      projectLink: "https://betichrome-nextjs.vercel.app/", // Provide a project link
     githubLink: "https://github.com/user/repo1", // Provide a GitHub link
       
     },

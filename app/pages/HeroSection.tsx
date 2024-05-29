@@ -25,7 +25,7 @@ const HeroSection = () => {
                 Turning Vision Into Reality With Code And Design.
               </h1>
               <p className='text-lg pt-3 text-black'>
-                As a passionate frontend developer, I bring designs to life with clean, efficient code. I specialize in  creating visually stunning and highly <br /> functional  web applications that deliver exceptional user experiences.
+              Welcome! I'm a frontend web developer specializing in HTML, CSS, Tailwind, Bootstrap, React, and Next.js. With creativity and technical prowess, I deliver stunning, responsive websites tailored to your needs. Let's collaborate to turn your digital vision into reality!
               </p>
               <div className='flex gap-4 mt-8'>
               <Button  className=" bg--500 text-white px-4 py-2 cursor-pointer  rounded-full focus:outline-none">
